@@ -1,2 +1,3 @@
 branchX
+CONFLICT
 extraline
